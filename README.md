@@ -2,6 +2,8 @@
 
 This project demonstrates a hybrid search solution using **LangChain**, **Pinecone**, and **HuggingFace Sentence Transformers**. The approach combines dense vector embeddings with sparse BM25 encoding to achieve more effective search results, incorporating both semantic and keyword-based relevance.
 
+![](https://github.com/ManavGora/Hybrid-Search-with-LangChain-and-Pinecone/blob/main/Pinecone.png)
+
 ## Table of Contents
 - [Overview](#overview)
 - [Technologies Used](#technologies-used)
@@ -9,7 +11,7 @@ This project demonstrates a hybrid search solution using **LangChain**, **Pineco
 - [How It Works](#how-it-works)
 - [Usage](#usage)
 - [Examples](#examples)
-- [License](#license)
+
 
 ## Overview
 In modern search systems, combining semantic search (dense embeddings) with traditional keyword-based search (sparse encoding like BM25) is an effective way to improve retrieval quality. This project implements such a hybrid search using the following components:
