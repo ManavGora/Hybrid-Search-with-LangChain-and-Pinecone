@@ -31,7 +31,7 @@ In modern search systems, combining semantic search (dense embeddings) with trad
 ### Prerequisites
 Make sure you have the following installed:
 - Python 3.7+
-- A Pinecone account (get your API key from [Pinecone](https://www.pinecone.io/)).
+- A Pinecone account (get your API key from [Pinecone](https://www.pinecone.io/).
 - HuggingFace account for Sentence Transformers.
 
 ### Installation
